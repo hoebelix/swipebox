@@ -1,4 +1,16 @@
 {
   "name": "swipebox",
-  "version": "1.5.2"
+  "version": "1.5.2",
+  "description": "A touchable jQuery lightbox",
+  "main": "/src/js/jquery.swipebox.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoebelix/swipebox.git"
+  },
+  "keywords": [
+    "Lightbox",
+    "jQuery"
+  ],
+  "author": "Constantin Saguin",
+  "license": "MIT"
 }
